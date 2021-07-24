@@ -5,4 +5,5 @@
 
 
 -->
-[![April's GitHub stats](https://github-readme-stats.vercel.app/api?username=ApVen77)](https://github.com/ApVen77/github-readme-stats)
+[![April's GitHub stats](https://github-readme-stats.vercel.app/api?username=ApVen77&theme=tokyonight)
+)](https://github.com/ApVen77/github-readme-stats)
