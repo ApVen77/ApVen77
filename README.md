@@ -1,4 +1,4 @@
-### Hi I'm April Long Web DevelopmentInstructor at Emily Griffith 👋
+### Hi I'm April Long Web Development Instructor 👋
 
 <!--
 **ApVen77/ApVen77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
